@@ -1,0 +1,2 @@
+name = "max"
+print("hello" + name)
